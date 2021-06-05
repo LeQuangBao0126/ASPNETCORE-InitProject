@@ -1,0 +1,9 @@
+C:\DotnetProjects\KnowledgeSpace.ViewModels\bin\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.deps.json
+C:\DotnetProjects\KnowledgeSpace.ViewModels\bin\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.dll
+C:\DotnetProjects\KnowledgeSpace.ViewModels\bin\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.pdb
+C:\DotnetProjects\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.csproj.AssemblyReference.cache
+C:\DotnetProjects\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.AssemblyInfoInputs.cache
+C:\DotnetProjects\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.AssemblyInfo.cs
+C:\DotnetProjects\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.csproj.CoreCompileInputs.cache
+C:\DotnetProjects\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.dll
+C:\DotnetProjects\KnowledgeSpace.ViewModels\obj\Debug\netcoreapp3.1\KnowledgeSpace.ViewModels.pdb
